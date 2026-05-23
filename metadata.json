@@ -1,0 +1,6 @@
+{
+  "name": "TrueNode",
+  "description": "A multi-agent verification framework to generate, fact-check, logic-check, and judge technical answers using Gemini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
